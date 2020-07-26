@@ -24,6 +24,11 @@ Here are some obseravations from the data
   - First step is removing the background because they are extra information here and casue unnecessary flow of data
   - How we do that? One simple way is to subtract the background (7 background images are provided under different lighting conditions, I have made a mean of them termed 'mean_back' in code)
   - When the camera is not fixed, then this strategy changes a bit. So, I will not have background class then, I can use background segmentation methods (may be otsu or adaptive thresholding or masking using a fixed threshold value)  
+
+<img src="Bag0.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
   - After the background info has been removed (they are mostly black), we have RGB values of images in scale of [0,1]. We need to use a threshold here to make them binary
   - Making them binary will enhance the required features (RGB information). 
   - After this binary RGB info has been generated, I count the number of RGB values activated at each image
