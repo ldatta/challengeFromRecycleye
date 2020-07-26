@@ -1,10 +1,6 @@
 # challengeFromRecycleye
-Challenge from Recycleye
-# Dillinger
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 # Data set:
 
 - Contains three classes [ 'general waste' [class 0], 'green sack'[class 1], 'mixed recycling'[class 2]
