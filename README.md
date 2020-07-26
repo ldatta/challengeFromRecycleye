@@ -34,6 +34,8 @@ Here are some obseravations from the data
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
+  after removing background 
+
 <img src="image_samples/Bag0_without_background.png"
      alt="Markdown Monster icon"
      style="float: right; margin-right: 10px;" />
