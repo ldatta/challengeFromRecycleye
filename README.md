@@ -33,7 +33,7 @@ Samples from class 0
 Left image is original data, right image is data after removing background
 
 <p float="left">
-  <img src="image_samples/Bag0.png" width="100" />
+  <img src="image_samples/Bag0.png" width="50" />
   <img src="image_samples/Bag0_without_background.png" width="100" /> 
   
 </p>
