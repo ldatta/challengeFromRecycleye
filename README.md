@@ -29,6 +29,23 @@ Here are some obseravations from the data
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
+Samples from class 0
+Left image is original data, right image is data after removing background
+
+<p float="left">
+  <img src="image_samples/Bag0.png" width="100" />
+  <img src="image_samples/Bag0_without_background.png" width="100" /> 
+  
+</p>
+<img src="image_samples/Bag0.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
+  after removing background 
+
+<img src="image_samples/Bag0_without_background.png"
+     alt="Markdown Monster icon"
+     style="float: right; margin-right: 10px;" />
 
 <img src="image_samples/Bag0.png"
      alt="Markdown Monster icon"
